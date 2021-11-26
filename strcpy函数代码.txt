@@ -1,4 +1,3 @@
-
 char* StrCpy(char* src)
 {
 	//计算src的长度len
