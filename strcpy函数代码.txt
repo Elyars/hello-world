@@ -22,6 +22,10 @@ char* StrCpy(char* src)
 	return p;
 }
 
+<<<<<<< HEAD
 /**
 本地编辑
 **/
+=======
+
+>>>>>>> 2a7da7ebc5d733c887717439f1fd69fd54903b67
